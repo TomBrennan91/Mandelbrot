@@ -1,6 +1,9 @@
 This is a project I embarked on when first learning Java.
+
 I recommend it to new programmers with an interest in mathematics as it is fairly quick to do (2-3 hours) but has a big
 payoff in terms of having a cool thing to show off once it's finished.
+
+![an example of the infinite pretty patterns](mandelbrotscreenshot.png)
 
 The Mandlebrot Set en.wikipedia.org/wiki/Mandelbrot_set
 is a set of complex numbers c for which f(z) = z^2 + c does not diverge when iterated from zero.
